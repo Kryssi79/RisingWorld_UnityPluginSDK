@@ -3,7 +3,37 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - UI
+  - Sun
+  - Moon
+  - Sky
+  - CustomPass
+  - Renderer
+  - HDRPVolume
+  - HDRPVolumeCave
+  - HDRPVolumeHell
+  - URPVolume
+  - URPVolumeCave
+  - URPVolumeHell
+  - Vegetation
+  - VegetationInteraction
+  - Pivot
+  - Pivot2
+  - HitTarget
+  - HitTargetHead
+  - HitTargetTorso
+  - HitTargetArms
+  - HitTargetLegs
+  - Area
+  - Slot1
+  - Slot2
+  - Slot3
+  - Slot4
+  - Custom
+  - API
+  - APIPrefab
+  - APIArea
   layers:
   - Default
   - TransparentFX
