@@ -13,6 +13,9 @@
 # Temp
 /[Tt]emp/
 
+# Temporary Assets
+/[Aa]ssets/[Tt]emp/
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
